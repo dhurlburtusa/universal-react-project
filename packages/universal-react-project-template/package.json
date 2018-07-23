@@ -1,0 +1,43 @@
+{
+  "name": "universal-react-project-template",
+  "version": "0.0.0-alpha",
+  "description": "",
+  "keywords": [
+    "express",
+    "graphql",
+    "hmr",
+    "project",
+    "react",
+    "redux",
+    "ssr",
+    "template"
+  ],
+  "author": {
+    "name": "Danny Hurlburt",
+    "email": "dhurlburtusa@github.com",
+    "url": "http://dhurlburtusa.github.io/"
+  },
+  "license": "ISC",
+  "browserslist": [
+    "> 0.5%",
+    "Last 2 major versions",
+    "Firefox ESR"
+  ],
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=3.0.0"
+  },
+  "repository": "https://github.com/dhurlburtusa/universal-react-project/tree/master/packages/universal-react-project-template",
+  "scripts": {
+    "build": "echo 'to be implemented'",
+    "clean": "echo 'to be implemented'",
+    "coverage": "echo 'to be implemented'",
+    "start": "echo 'to be implemented'",
+    "test": "echo 'to be implemented'"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "lerna": "^3.0.0-beta.20"
+  }
+}
